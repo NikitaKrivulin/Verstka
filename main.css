@@ -1,0 +1,204 @@
+
+.info {
+	display: flex;
+	flex-direction: row;
+}
+
+.info__left_application {
+	font-size: 20px;
+}
+
+
+.stroka {
+	display: flex;
+	flex-direction: row;
+}
+
+.search {
+	width: 300px;
+}
+
+.fio {
+	width: 300px;
+}
+
+.street {
+	width: 338px;
+}
+
+.home {
+	width: 50px;
+}
+
+.housing {
+	width: 50px;
+}
+
+.entrance {
+	width: 55px;
+}
+
+.apartment {
+	width: 50px;
+}
+
+
+
+.phone {
+	display: flex;
+	flex-direction: row;
+}
+
+.logo {
+	display: flex;
+	flex-direction: row;
+}
+
+.logo_one {
+    position: relative;
+    right:-50px;
+}
+
+.info_one_logo1{
+   border-style: solid;
+   border-color: black;
+   width: 100px;
+   height: 100px;
+   position: relative;
+   top: -20px;
+}
+
+.info_one_logo2{
+   border-style: solid;
+   border-color: black;
+   width: 100px;
+   height: 100px;
+}
+
+.info_one_logo3{
+   border-style: solid;
+   border-color: black;
+   width: 100px;
+   height: 100px;
+   position: relative;
+   top: 20px;
+}
+
+.logo_two {
+	position: relative;
+	right:-135px;
+}
+
+
+.info_two_logo1{
+   border-style: solid;
+   border-color: black;
+   width: 100px;
+   height: 100px;
+   position: relative;
+   top:-20px;
+  
+}
+
+.info_two_logo2{
+   border-style: solid;
+   border-color: black;
+   width: 100px;
+   height: 100px;
+}
+
+.info_two_logo3{
+   border-style: solid;
+   border-color: black;
+   width: 100px;
+   height: 100px;
+   position: relative;
+   top:20px;
+}
+
+
+
+.info__right {
+	position: relative;
+	right: -50px;
+}
+
+.work {
+	text-transform: uppercase;
+}
+
+.assessment {
+	text-transform: uppercase;
+	position: relative;
+	top: 100px;
+}
+
+.new {
+	width: 5px;
+}
+
+.firstnews {
+   border-style: solid;
+   border-color: black;
+   width: 800px;
+   position: relative;
+   top: 200px;
+
+}
+
+.twonews {
+   border-style: solid;
+   border-color: black;
+   position: relative;
+   top: 200px;
+}
+
+.news1 {
+   position: relative;
+   top: -5px;
+}
+
+.news2 {
+   position: relative;
+   top: -20px;
+}
+
+.news3 {
+   position: relative;
+   top:10px;
+}
+
+.news4 {
+	position:relative;
+	top:-10px;
+}
+
+.comments {
+	position: relative;
+	top:210px;
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	position: relative;
+	top: 70px;
+	background: gray;
+}
+
+.kompany {
+	position: relative;
+	top:20px;
+}
+
+.dispatch {
+	position: relative;
+	top:20px;
+	right:-450px;
+}
+
+.commercial {
+	position: relative;
+	right:-1000px;
+	top:16px;
+}
